@@ -1,10 +1,16 @@
-WEEK 3 — 21. Tree Breadth-First Search
+﻿WEEK 3 - 21. Tree Breadth-First Search
 
-Level-order traversal, BFS and queue-based tree processing.
+Focus
+- Process trees level by level using queues.
 
-Common Problems
-- Binary Tree Level Order Traversal — easy
-- Minimum Depth of Binary Tree — easy
+Common Problems (start here)
+- Binary Tree Level Order Traversal - medium
+- Binary Tree Right Side View - medium
+- Average of Levels in Binary Tree - easy
+- Minimum Depth of Binary Tree - easy
+- Populating Next Right Pointers in Each Node - medium
+- Binary Tree Zigzag Level Order Traversal - medium
+- Find Largest Value in Each Tree Row - medium
 
 Daily Template
 - Date:

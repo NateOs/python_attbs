@@ -1,15 +1,16 @@
-WEEK 1 — 02. Fast and Slow Pointers
+﻿WEEK 1 - 02. Fast and Slow Pointers
 
-Master steps for cycle detection and midpoint identification.
+Focus
+- Detect cycles, find midpoints, and reason about relative movement speeds.
 
-Common Problems
-- Linked List Cycle — easy
-- Happy Number — easy
-- Middle of the Linked List — easy
-- Circular Array Loop — medium
-- Find the Duplicate Number — medium
-- Palindrome Linked List — easy
-- Linked List Cycle III — medium
+Common Problems (start here)
+- Linked List Cycle - easy
+- Linked List Cycle II - medium
+- Happy Number - easy
+- Middle of the Linked List - easy
+- Palindrome Linked List - easy
+- Find the Duplicate Number - medium
+- Circular Array Loop - medium
 
 Daily Template
 - Date:

@@ -1,11 +1,16 @@
-WEEK 1 — 06. Two Heaps
+﻿WEEK 1 - 06. Two Heaps
 
-Use two heaps for median maintenance and dynamic order-statistics.
+Focus
+- Split values into lower/upper halves for streaming medians and balanced partitions.
 
-Common Problems
-- Find Median from Data Stream — hard
-- Sliding Window Median — hard
-- Top K Frequent Elements — medium
+Common Problems (start here)
+- Find Median from Data Stream - hard
+- Sliding Window Median - hard
+- IPO - hard
+- Find Right Interval - medium
+- Maximize Capital - hard
+- Reorganize String - medium
+- Meeting Rooms II - medium
 
 Daily Template
 - Date:

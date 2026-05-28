@@ -1,10 +1,16 @@
-WEEK 4 — 28. Math and Geometry
+﻿WEEK 4 - 28. Math and Geometry
 
-Mathy problems involving geometry, combinatorics, and number theory.
+Focus
+- Solve numeric and geometric problems with formulas and invariants.
 
-Common Problems
-- Pow(x, n) — medium
-- Valid Square / Rectangle checks — easy
+Common Problems (start here)
+- Pow(x, n) - medium
+- Rotate Image - medium
+- Multiply Strings - medium
+- Happy Number - easy
+- Plus One - easy
+- String to Integer (atoi) - medium
+- Valid Square - medium
 
 Daily Template
 - Date:

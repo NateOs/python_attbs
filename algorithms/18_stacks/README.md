@@ -1,10 +1,16 @@
-WEEK 3 — 18. Stacks
+﻿WEEK 3 - 18. Stacks
 
-Use stacks for parsing, monotonic structures, and backtracking support.
+Focus
+- Use LIFO structure for parsing, monotonic constraints, and undo flows.
 
-Common Problems
-- Valid Parentheses — easy
-- Evaluate Reverse Polish Notation — medium
+Common Problems (start here)
+- Valid Parentheses - easy
+- Min Stack - medium
+- Evaluate Reverse Polish Notation - medium
+- Daily Temperatures - medium
+- Next Greater Element I - easy
+- Largest Rectangle in Histogram - hard
+- Basic Calculator II - medium
 
 Daily Template
 - Date:

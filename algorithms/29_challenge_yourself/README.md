@@ -1,9 +1,16 @@
-WEEK 4 — 29. Challenge Yourself
+﻿WEEK 4 - 29. Challenge Yourself
 
-Mixed advanced problems to test full understanding and efficiency.
+Focus
+- Mix hard, cross-pattern problems to strengthen interview readiness.
 
-Common Problems
-- Hard problems across patterns (use as stretch goals)
+Common Problems (start here)
+- Trapping Rain Water - hard
+- Median of Two Sorted Arrays - hard
+- Word Ladder - hard
+- Serialize and Deserialize Binary Tree - hard
+- Sliding Window Maximum - hard
+- Edit Distance - hard
+- Merge k Sorted Lists - hard
 
 Daily Template
 - Date:

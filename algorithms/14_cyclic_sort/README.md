@@ -1,11 +1,16 @@
-WEEK 2 — 14. Cyclic Sort
+﻿WEEK 2 - 14. Cyclic Sort
 
-Efficient handling of missing/duplicate numbers using index placements.
+Focus
+- Place numbers at target indices to detect missing and duplicate values.
 
-Common Problems
-- Find the Missing Number — easy
-- Find All Numbers Disappeared in an Array — medium
-- First Missing Positive — hard
+Common Problems (start here)
+- Missing Number - easy
+- Find All Numbers Disappeared in an Array - easy
+- Find All Duplicates in an Array - medium
+- Set Mismatch - easy
+- First Missing Positive - hard
+- Find the Duplicate Number - medium
+- Corrupt Pair style problems (practice concept)
 
 Daily Template
 - Date:

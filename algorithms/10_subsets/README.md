@@ -1,11 +1,16 @@
-WEEK 2 — 10. Subsets
+﻿WEEK 2 - 10. Subsets
 
-Generate subsets, permutations, and combinations.
+Focus
+- Generate combinations, subsets, and permutations systematically.
 
-Common Problems
-- Subsets — easy
-- Permutations — medium
-- Combination Sum — medium
+Common Problems (start here)
+- Subsets - medium
+- Subsets II - medium
+- Permutations - medium
+- Permutations II - medium
+- Combination Sum - medium
+- Combination Sum II - medium
+- Letter Combinations of a Phone Number - medium
 
 Daily Template
 - Date:

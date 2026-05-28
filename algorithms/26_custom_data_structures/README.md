@@ -1,10 +1,16 @@
-WEEK 4 — 26. Custom Data Structures
+﻿WEEK 4 - 26. Custom Data Structures
 
-Design tailored data structures for problem-specific needs.
+Focus
+- Design efficient APIs by combining core data structures.
 
-Common Problems
-- LRU Cache — medium
-- Design Twitter — medium
+Common Problems (start here)
+- LRU Cache - medium
+- Min Stack - medium
+- Design Twitter - medium
+- Insert Delete GetRandom O(1) - medium
+- All O`one Data Structure - hard
+- LFU Cache - hard
+- Time Based Key-Value Store - medium
 
 Daily Template
 - Date:

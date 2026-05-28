@@ -1,10 +1,16 @@
-WEEK 3 — 16. Sort and Search
+﻿WEEK 3 - 16. Sort and Search
 
-Organize data by sorting and apply binary/search techniques.
+Focus
+- Apply sorting plus search patterns for efficient lookup and ordering.
 
-Common Problems
-- Sort Colors — medium
-- Search Insert Position — easy
+Common Problems (start here)
+- Sort Colors - medium
+- Merge Sorted Array - easy
+- Kth Largest Element in an Array - medium
+- Sort an Array - medium
+- Search Insert Position - easy
+- Merge Intervals - medium
+- Find Peak Element - medium
 
 Daily Template
 - Date:

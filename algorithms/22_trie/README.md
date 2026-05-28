@@ -1,10 +1,16 @@
-WEEK 3 — 22. Trie
+﻿WEEK 3 - 22. Trie
 
-Prefix trees for suggestions, autocompletion, and pattern matching.
+Focus
+- Build prefix trees for fast prefix lookup and dictionary search.
 
-Common Problems
-- Implement Trie (Prefix Tree) — medium
-- Word Search II (with trie optimization) — hard
+Common Problems (start here)
+- Implement Trie (Prefix Tree) - medium
+- Design Add and Search Words Data Structure - medium
+- Word Search II - hard
+- Replace Words - medium
+- Longest Word in Dictionary - medium
+- Map Sum Pairs - medium
+- Implement Magic Dictionary - medium
 
 Daily Template
 - Date:

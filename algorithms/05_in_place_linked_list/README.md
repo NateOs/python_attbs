@@ -1,12 +1,16 @@
-WEEK 1 — 05. In-Place Manipulation of a Linked List
+﻿WEEK 1 - 05. In-Place Manipulation of a Linked List
 
-Tackle in-place linked list rearrangements and deletions.
+Focus
+- Rewire pointers without extra list allocations.
 
-Common Problems
-- Reverse Linked List — easy
-- Remove Nth Node From End of List — medium
-- Merge Two Sorted Lists — easy
-- Partition List — medium
+Common Problems (start here)
+- Reverse Linked List - easy
+- Reverse Linked List II - medium
+- Remove Nth Node From End of List - medium
+- Swap Nodes in Pairs - medium
+- Reorder List - medium
+- Reverse Nodes in k-Group - hard
+- Partition List - medium
 
 Daily Template
 - Date:

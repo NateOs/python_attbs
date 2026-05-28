@@ -1,11 +1,16 @@
-WEEK 2 — 13. Dynamic Programming
+﻿WEEK 2 - 13. Dynamic Programming
 
-Classic DP: memoization, tabulation, knapsack variants.
+Focus
+- Build optimal substructure solutions with memoization or tabulation.
 
-Common Problems
-- Climbing Stairs — easy
-- Longest Increasing Subsequence — medium
-- Coin Change — medium
+Common Problems (start here)
+- Climbing Stairs - easy
+- House Robber - medium
+- Coin Change - medium
+- Longest Increasing Subsequence - medium
+- Longest Common Subsequence - medium
+- Word Break - medium
+- Partition Equal Subset Sum - medium
 
 Daily Template
 - Date:

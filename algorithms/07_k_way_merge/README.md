@@ -1,10 +1,15 @@
-WEEK 1 — 07. K-way Merge
+﻿WEEK 1 - 07. K-way Merge
 
-Merge multiple sorted lists/streams efficiently.
+Focus
+- Merge multiple sorted inputs with min-heaps or divide-and-conquer.
 
-Common Problems
-- Merge k Sorted Lists — medium
-- Find Kth Smallest in a Sorted Matrix — medium
+Common Problems (start here)
+- Merge k Sorted Lists - hard
+- Kth Smallest Element in a Sorted Matrix - medium
+- Find K Pairs with Smallest Sums - medium
+- Smallest Range Covering Elements from K Lists - hard
+- Merge Sorted Array - easy
+- External merge of sorted streams (practice concept)
 
 Daily Template
 - Date:
